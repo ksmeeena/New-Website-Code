@@ -174,7 +174,7 @@ html .fc,
 
 .fc-button-prev .fc-text-arrow,
 .fc-button-next .fc-text-arrow { /* for &lsaquo; &rsaquo; */
-	font-weight: bold;
+	font-weight:;
 	}
 	
 /* icon (for jquery ui) */
