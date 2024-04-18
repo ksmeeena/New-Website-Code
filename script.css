@@ -36,7 +36,7 @@ html .fc,
 	}
 
 .fc-header-left {
-	width: 65%;
+	width: 25%;
 	text-align: left;
 	}
 	
@@ -45,7 +45,7 @@ html .fc,
 	}
 	
 .fc-header-right {
-	width: 25%;
+	width: 65%;
 	text-align: right;
 	}
 	
